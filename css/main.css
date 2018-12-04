@@ -40,7 +40,7 @@ nav {
 }
 
 .l-blue {
-  color: orange;
+  color: #f2f2f2;
 }
 
 h1 {
@@ -73,7 +73,7 @@ a {
 }
 
 a:hover {
-  color: orange;
+  color: #506cad;
 }
 
 .nav a:focus {
@@ -81,11 +81,11 @@ a:hover {
 }
 
 .blu {
-  background-color: #506cad;
+  background-color:#000 ;
 }
 
 .current {
-  color: orange;
+  color: #506cad;
 }
 
 .white {
