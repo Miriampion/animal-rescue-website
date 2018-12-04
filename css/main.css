@@ -44,7 +44,7 @@ nav {
 }
 
 h1 {
-  background-color: #333333;
+  background-color: #f2f2f2;
 }
 
 .banner {
@@ -81,7 +81,7 @@ a:hover {
 }
 
 .blu {
-  background-color:#000 ;
+  background-color:#e2e2e2 ;
 }
 
 .current {
@@ -89,7 +89,7 @@ a:hover {
 }
 
 .white {
-  color: #f2f2f2;
+  color: #000;
 }
 
 footer {
