@@ -17,14 +17,18 @@ nav {
   text-align: center;
 }
 
-.container {
+/* .container {
   min-height: 400px;
   max-height: 400px;
   overflow: hidden;
-}
+} */
 
 .btn {
   padding: 14px;
+}
+
+.black {
+  color: #000;
 }
 
 .yellow {
@@ -89,7 +93,7 @@ a:hover {
 }
 
 .white {
-  color: #000;
+  color: #55d8cb;
 }
 
 footer {
