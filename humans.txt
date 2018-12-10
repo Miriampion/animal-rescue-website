@@ -5,3 +5,7 @@ https://animals.sandiegozoo.org/animals/emu
 Photo emu1.jpg
 Photographer unknown
 https://perthzoo.wa.gov.au/animal/emu
+
+Photo emu2.jpg
+Photographer unknown
+https://perthzoo.wa.gov.au/animal/emu
