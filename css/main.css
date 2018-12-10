@@ -1,5 +1,5 @@
 html {
-font-family: "Abril Fatface", cursive;
+  font-family: "Abril Fatface", cursive;
 }
 
 body {
@@ -85,7 +85,7 @@ a:hover {
 }
 
 .blu {
-  background-color:#e2e2e2;
+  background-color: #e2e2e2;
 }
 
 .current {
