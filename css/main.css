@@ -28,7 +28,10 @@ nav {
 } */
 
 .btn {
+  color: #fff;
   padding: 14px;
+  background-color: rgba(68, 68, 68, 0.5);
+  border: none;
 }
 
 .black {
@@ -81,7 +84,7 @@ a {
 }
 
 a:hover {
-  color: #506cad;
+  color: #55d8cb;
 }
 
 .nav a:focus {
